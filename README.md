@@ -33,4 +33,4 @@ python nome_do_arquivo.py
 
 ---
 
-Desenvolvido por [Vítor Gabriel](https://github.com/lVitorSouza)
+Desenvolvido por [Vítor Gabriel de Souza](https://github.com/lVitorSouza)
